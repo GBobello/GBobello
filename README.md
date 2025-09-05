@@ -8,7 +8,7 @@
 
 ## Meu nome é Gabriel Bobello
 (Delphi | Python | TypeScript | JavaScript ) 🚀
-- 👩‍💻 Desenvolvedor de software @[SCI Sistemas Contábeis](https://www.sci.com.br/)
+- 👩‍💻 Desenvolvedor de software @[Senior Sistemas](https://www.senior.com.br/)
 - 🎓 Cursando bacharelado em Sistemas da Informação
 - 🌐 Apaixonado por desenvolvimento de software
 - 💡 Adoro um bom desafio
