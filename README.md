@@ -7,7 +7,7 @@
 
 
 ## Meu nome é Gabriel Bobello
-(Delphi | Python | TypeScript | JavaScript ) 🚀
+(Delphi | Go | Python | TypeScript | JavaScript ) 🚀
 - 👩‍💻 Desenvolvedor de software @[Senior Sistemas](https://www.senior.com.br/)
 - 🎓 Cursando bacharelado em Sistemas da Informação
 - 🌐 Apaixonado por desenvolvimento de software
